@@ -1,4 +1,4 @@
-# hash-crack
+# hash-cracker
 Cracking the hash
 
 This tool applies a brute force method against various types of hashes to try and crack them.
