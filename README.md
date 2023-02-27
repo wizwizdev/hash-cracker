@@ -35,3 +35,6 @@ You could consider this project an example of how to accomplish such a task usin
 The tool is certainly usable and may work for your scenario but keep in mind that it will run far slower than anything written in C, C++, Rust, or Go.
 If you require the highest performance possible get yourself a GPU and don't bother using any tools (including this one) that target the CPU.
 Look for something that makes use of CUDA, OpenCL, or ACL which will bring you into the domain of billions of hashes per second.
+
+## Contact Developer
+💎 Group: https://t.me/wizwizdev
